@@ -1,1 +1,1 @@
-# launchpadCore
+# PolySpark Launchpad Core
