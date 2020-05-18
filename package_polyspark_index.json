@@ -14,15 +14,12 @@
                 "architecture": "megaavr",
                 "version": "1.0",
                 "category": "Contributed",
-                "help": {
-                  "online": ""
-                },
                 "url": "https://github.com/PolySpark/LaunchpadCore/raw/master/LaunchpadCore-1.0.zip",
                 "archiveFileName": "LaunchpadCore-1.0.zip",
                 "checksum": "SHA-256:6192517a31616f0b9ffc1946eaba506ca29fe88d7f4028a90838cd2f60cfb5c0",
-                "size": "8084728"
+                "size": "8084728",
                 "boards": [
-                  {"name": "Launchpad v1.0 and v1.1"}
+                  {"name": "Launchpad v1.0 and v1.1"},
                 ],
                 "toolsDependencies": [
                   {
