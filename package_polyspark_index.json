@@ -11,7 +11,8 @@
       "platforms": [
         {
           "name": "LaunchpadCore(megaTinyCore)",
-          "architecture": "megaavr",              "version": "1.0",
+          "architecture": "megaavr",
+          "version": "1.0",
           "category": "Contributed",
           "url": "https://github.com/PolySpark/LaunchpadCore/raw/master/LaunchpadCore-1.0.zip",
           "archiveFileName": "LaunchpadCore-1.0.zip",
@@ -22,8 +23,7 @@
           ],
           "toolsDependencies": []
         }
-      ],
-      "tools": []
+      ]
     }
   ]
 }
