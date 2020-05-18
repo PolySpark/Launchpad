@@ -19,7 +19,7 @@
           "checksum": "SHA-256:6192517a31616f0b9ffc1946eaba506ca29fe88d7f4028a90838cd2f60cfb5c0",
           "size": "8084728",
           "boards": [
-            {"name": "Launchpad"}
+            {"name": "Launchpad(ATtiny1616)"}
           ],
           "toolsDependencies": [
             {
