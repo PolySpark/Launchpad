@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "Launchpad Boards (megaTinyCore)",
-      "maintainer": "PolySpark Mechatronics",
+      "maintainer": "Clyde Corpuz",
       "websiteURL": "https://github.com/PolySpark/LaunchpadCore",
       "email": "",
       "help": {
