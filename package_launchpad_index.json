@@ -16,10 +16,10 @@
           "category": "Contributed",
           "url": "https://github.com/PolySpark/LaunchpadCore/raw/master/LaunchpadCore-1.0.zip",
           "archiveFileName": "LaunchpadCore-1.0.zip",
-          "checksum": "SHA-256:C9BD0A10EB6814CEAECA0E06477CBEE4DEBB7B6E5BF79891516AC64A2DDA4EC9",
-          "size": "981065",
+          "checksum": "SHA-256:C12CC280B6BAC20C58E9A4FF3FCD416A44D6A46AEE16DC1D0310A8E0F5B398DD",
+          "size": "980868",
           "boards": [
-            {"name": "Launchpad (ATtiny1616)"}
+            {"name": "Launchpad v1.0"}
           ],
           "toolsDependencies": [
             {
